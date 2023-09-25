@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset = "UTF-8">
+	<!--  Krzysztof Kowalski, 000855834 -->
+	<title>My First Web Page</title>
+</head>
+<body>
+<!-- headings h1....h6 -->
+<h1>Broccoli</h1>
+<img src="Broccoli.jpg">
+<h2>Description </h2>
+<p>Broccoli was grown in the <i>Roman Empire</i>, and was likely improved via artificial selection in Italy. Broccoli spread to northern Europe in the 18th century and brought to North America in the 19th century. Some of the cultivars that have been most popular are the Premium Crop, Packman and Marathon
+</p>
+
+<h3>Nutrition information for 31/2 oz. (partial list)</h3>
+
+<p><i>Per 100g</i>
+
+	<ul>
+		<li>Energy: 34 calories
+		<li>Carbohydrates: 6.64 g
+			<ul>
+				<li>Dietary: Fiber: 2.6 g
+				<li>Sugar: 1.7 g
+							</ul>
+<li>Fat:0.37g
+<li>Protein: 2.82 g
+<li>Vitmains
+			<ul>
+				<li>Vitamin A: 31 ug
+				<li>Folate(B9): 63 ug
+				<li>Vitamin C: 89.2 mg
+				<li>Vitamin K: 101.6 ug
+					</ul>
+<li>Minerals
+				<ul>
+				<li>Calcium: 47 mg
+				<li>Iron: 0.73 mg
+				<li>Zinc: 0.41 mg
+					</ul>
+					</p>
+		
+<footer>
+<p><sup>1</sup>Source: Wikipedia (Broccoli). Content can be edited by the general public</p>
+</footer>
+	</body>
+</html>
