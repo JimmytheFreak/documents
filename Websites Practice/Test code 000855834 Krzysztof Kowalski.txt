@@ -9,6 +9,8 @@
 	img{
 		float:right;
 		size:small;
+		width:10cm;
+		height:10cm;
 		}
 </style>
 <h1>Baseball</h1>
